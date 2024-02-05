@@ -1,3 +1,3 @@
 # Résumé
 
-Fork from https://github.com/billryan/resume/
+For more peronal information, Please visit Oscar's Personal Site.
